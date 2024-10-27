@@ -1,0 +1,14 @@
+.mycard
+{
+    border: 10px outset rgb(224, 9, 138);
+    display: inline-block;
+    background-color: lightcyan;
+    margin: 10px;
+    padding: 10px;
+}
+/* .mycard h1
+{
+    color: ;
+} */
+/* if we want to fetch data then we require axios data 
+aios: use to fetch the data from the apis*/
